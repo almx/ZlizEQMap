@@ -1,0 +1,139 @@
+﻿// 01Antonica
+arena=The Arena
+befallen=Befallen
+beholder=The Gorge of King Xorbb
+blackburrow=Blackburrow
+cazicthule=Accursed Temple of CazicThule
+commons=West Commonlands
+eastkarana=Eastern Plains of Karana
+ecommons=East Commonlands
+everfrost=Everfrost Peaks
+feerrott=The Feerrott
+freporte=East Freeport
+freportn=North Freeport
+freportw=West Freeport
+grobb=Grobb
+gukbottom=The Ruins of Old Guk
+guktop=The City of Guk
+halas=Halas
+highkeep=High Keep
+highpass=Highpass Hold
+innothule=The Innothule Swamp
+kithicor=Kithicor Forest
+lakerathe=Lake Rathetear
+lavastorm=The Lavastorm Mountains
+misty=The Misty Thicket
+najena=Najena
+nektulos=The Nektulos Forest
+neriaka=Neriak Foreign Quarter
+neriakb=Neriak Commons
+neriakc=Neriak Third Gate
+northkarana=The Northern Plains of Karana
+nro=North Desert of Ro
+oasis=The Oasis of Marr
+oggok=Oggok
+paw=Infected Paw
+permafrost=The Permafrost Caverns
+qcat=The Qeynos Aqueduct System
+qey2hh1=The Western Plains of Karana
+qeynos=South Qeynos
+qeynos2=North Qeynos
+qeytoqrg=The Qeynos Hills
+qrg=Surefall Glade
+rathemtn=Rathe Mountains
+rivervale=Rivervale
+runnyeye=Clan RunnyEye
+soldunga=Solusek's Eye
+soldungb=Nagafen's Lair
+soltemple=The Temple of Solusek Ro
+southkarana=The Southern Plains of Karana
+sro=South Desert of Ro
+
+// 02Faydwer
+akanon=Ak'Anon
+butcher=Butcherblock Mountains
+cauldron=Dagnor's Cauldron
+crushbone=Crushbone
+felwithea=Northern Felwithe
+felwitheb=Southern Felwithe
+gfaydark=The Greater Faydark
+kaladima=South Kaladim
+kaladimb=North Kaladim
+kedge=Kedge Keep
+lfaydark=Lesser Faydark
+mistmoore=The Castle of Mistmoore
+oot=The Ocean of Tears
+steamfont=The Steamfont Mountains
+unrest=The Estate of Unrest
+
+// 03Odus
+erudint=Erudin Palace
+erudnext=Erudin
+erudsxing=Erud's Crossing
+hole=The Hole
+kerraridge=Kerra Isle
+paineel=Paineel
+stonebrunt=Stonebrunt Mountains
+toxxulia=Toxxulia Forest
+warrens=The Warrens
+
+// 04The Planes
+airplane=The Plane of Air
+fearplane=The Plane of Fear
+hateplane=The Plane of Hate
+
+// 05Kunark
+burningwood=The Burning Wood
+cabeast=Cabilis East
+cabwest=Cabilis West
+charasis=The Howling Stones
+chardok=Chardok
+citymist=The City of Mist
+dalnir=The Crypt of Dalnir
+dreadlands=The Dreadlands
+droga=The Temple of Droga
+emeraldjungle=The Emerald Jungle
+fieldofbone=The Field of Bone
+firiona=Firiona Vie
+frontiermtns=Frontier Mountains
+kaesora=Kaesora
+karnor=Karnor's Castle
+kurn=Kurn's Tower
+lakeofillomen=Lake of Ill Omen
+nurga=The Mines of Nurga
+overthere=The Overthere
+sebilis=The Ruins of Sebilis
+skyfire=The Skyfire Mountains
+swampofnohope=The Swamp Of No Hope
+timorous=Timorous Deep
+trakanon=Trakanon's Teeth
+veeshan=Veeshan's Peak
+warslikswood=The Warsliks Woods
+
+// 06Velious
+cobaltscar=Cobaltscar
+crystal=The Crystal Caverns
+eastwastes=Eastern Wastes
+frozenshadow=The Tower of Frozen Shadow
+greatdivide=The Great Divide
+growthplane=The Plane of Growth
+iceclad=The Iceclad Ocean
+kael=Kael Drakkel
+mischiefplane=The Plane of Mischief
+necropolis=Dragon Necropolis
+sirens=Siren's Grotto
+skyshrine=Skyshrine
+sleeper=Kerafyrm's Lair
+templeveeshan=The Temple of Veeshan
+thurgadina=The City of Thurgadin
+thurgadinb=Icewell Keep
+velketor=Velketor's Labyrinth
+wakening=The Wakening Land
+westwastes=The Western Wastes
+
+// 07Luclin
+shadeweaver=Shadeweaver's Thicket
+sharvahl=Shar Vahl
+
+// 08Planes of Power
+poknowledge=The Plane of Knowledge

@@ -1,0 +1,9 @@
+E:\Alexander\Software Projects\ZlizEQMap\ZlizEQMap\ZlizEQMap.Test\bin\Test\ZlizEQMap.Test.dll
+E:\Alexander\Software Projects\ZlizEQMap\ZlizEQMap\ZlizEQMap.Test\bin\Test\ZlizEQMap.Test.pdb
+E:\Alexander\Software Projects\ZlizEQMap\ZlizEQMap\ZlizEQMap.Test\bin\Test\ZlizEQMap.exe
+E:\Alexander\Software Projects\ZlizEQMap\ZlizEQMap\ZlizEQMap.Test\bin\Test\HtmlRenderer.WinForms.dll
+E:\Alexander\Software Projects\ZlizEQMap\ZlizEQMap\ZlizEQMap.Test\bin\Test\HtmlRenderer.dll
+E:\Alexander\Software Projects\ZlizEQMap\ZlizEQMap\ZlizEQMap.Test\bin\Test\ZlizEQMap.pdb
+E:\Alexander\Software Projects\ZlizEQMap\ZlizEQMap\ZlizEQMap.Test\obj\Test\ZlizEQMap.Test.csprojResolveAssemblyReference.cache
+E:\Alexander\Software Projects\ZlizEQMap\ZlizEQMap\ZlizEQMap.Test\obj\Test\ZlizEQMap.Test.dll
+E:\Alexander\Software Projects\ZlizEQMap\ZlizEQMap\ZlizEQMap.Test\obj\Test\ZlizEQMap.Test.pdb

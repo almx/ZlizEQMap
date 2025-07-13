@@ -1,0 +1,13 @@
+E:\Alexander\Software Projects\ZlizEQMap\ZlizEQMap\ZlizEQMap.Test\bin\Release\ZlizEQMap.Test.dll
+E:\Alexander\Software Projects\ZlizEQMap\ZlizEQMap\ZlizEQMap.Test\bin\Release\ZlizEQMap.Test.pdb
+E:\Alexander\Software Projects\ZlizEQMap\ZlizEQMap\ZlizEQMap.Test\bin\Release\ZlizEQMap.exe
+E:\Alexander\Software Projects\ZlizEQMap\ZlizEQMap\ZlizEQMap.Test\bin\Release\HtmlRenderer.WinForms.dll
+E:\Alexander\Software Projects\ZlizEQMap\ZlizEQMap\ZlizEQMap.Test\bin\Release\HtmlRenderer.dll
+E:\Alexander\Software Projects\ZlizEQMap\ZlizEQMap\ZlizEQMap.Test\bin\Release\ZlizEQMap.pdb
+E:\Alexander\Software Projects\ZlizEQMap\ZlizEQMap\ZlizEQMap.Test\obj\Release\ZlizEQMap.Test.dll
+E:\Alexander\Software Projects\ZlizEQMap\ZlizEQMap\ZlizEQMap.Test\obj\Release\ZlizEQMap.Test.pdb
+E:\Alexander\Software Projects\ZlizEQMap\ZlizEQMap\ZlizEQMap.Test\bin\Release\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+E:\Alexander\Software Projects\ZlizEQMap\ZlizEQMap\ZlizEQMap.Test\obj\Release\ZlizEQMap.Test.csproj.CoreCompileInputs.cache
+E:\Alexander\Software Projects\ZlizEQMap\ZlizEQMap\ZlizEQMap.Test\obj\Release\ZlizEQMap.Test.csproj.AssemblyReference.cache
+E:\Alexander\Software Projects\ZlizEQMap\ZlizEQMap\ZlizEQMap.Test\obj\Release\ZlizEQMap.Test.csproj.CopyComplete
+E:\Alexander\Software Projects\ZlizEQMap\ZlizEQMap\ZlizEQMap.Test\bin\Release\background.jpg
